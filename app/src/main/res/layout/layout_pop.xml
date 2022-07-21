@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/green"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/filed"
+        style="@style/popTv"
+        android:text="自定义字段" />
+
+    <TextView
+        android:id="@+id/add"
+        style="@style/popTv"
+        android:text="新增" />
+
+    <TextView
+        android:id="@+id/delete"
+        style="@style/popTv"
+        android:text="删除" />
+
+    <TextView
+        android:id="@+id/save"
+        style="@style/popTv"
+        android:text="保存" />
+
+
+    <TextView
+        android:id="@+id/submit"
+        style="@style/popTv"
+        android:text="保存JSON文件" />
+
+    <TextView
+        android:id="@+id/submit2"
+        style="@style/popTv"
+        android:text="保存全部JSON文件" />
+
+    <TextView
+        android:id="@+id/mailSubmit"
+        style="@style/popTv"
+        android:text="邮箱提交" />
+
+    <TextView
+        android:id="@+id/email"
+        style="@style/popTv"
+        android:text="邮箱配置" />
+    <TextView
+        android:id="@+id/userName"
+        style="@style/popTv"
+        android:text="用户名" />
+</LinearLayout>

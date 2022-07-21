@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/dialog_config.xml" value="0.39233576642335766" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_dialog_config.xml" value="0.20425724637681159" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_dialog_custom_item.xml" value="0.20425724637681159" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_dialog_select_pic.xml" value="0.20425724637681159" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_fragment_tour.xml" value="0.33" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_item_room.xml" value="0.20425724637681159" />
+        <entry key="..\:/outSource/netinfov2/mail_v3/app/src/main/res/layout/layout_pop.xml" value="0.33" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/activity_main.xml" value="0.2056159420289855" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_dialog_address.xml" value="0.2056159420289855" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_dialog_save.xml" value="0.35885416666666664" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_editcontainer.xml" value="0.2056159420289855" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_editext.xml" value="0.2056159420289855" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_fragment_net.xml" value="0.2056159420289855" />
+        <entry key="..\:/workspace/netinfov2/BasicModel/app/src/main/res/layout/layout_fragment_tour.xml" value="0.2056159420289855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

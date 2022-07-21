@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <net.basicmodel.widget.InputEditText
+        android:id="@+id/inputEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@+id/optionRight"/>
+
+    <ImageView
+        android:id="@+id/optionRight"
+        android:layout_width="?actionBarSize"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/inputEdit"
+        android:layout_alignBottom="@+id/inputEdit"
+        android:scaleType="center"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
